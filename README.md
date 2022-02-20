@@ -9,11 +9,11 @@
 
 <h2 align="center">Languages and Tools</h2>
 <h3><i>Frontend Development :</i></34>
-<h4>HTML5 / CSS3 / JS / React / BootStrap / SASS / Wordpress / SDLC / Babel / Redux / RestAPI / Postman</h4>
+<h4> HTML5   /   CSS3   /  JS   /   React   /   BootStrap   /   SASS   /    Wordpress   /   SDLC   /   Babel   /   Redux    /    RestAPI   /   Postman</h4>
 <h3><i>Backend Development and Database :</i></h3>
-<h4>Django / MySQL / Firebase / Heroku / PostgreSQL </h4>
+<h4>Django   /   MySQL   /   Firebase   /   Heroku   /   PostgreSQL </h4>
 <h4>Others :</h4>
-<h5>Git / GitHub / Linux </h5>
+<h4>  Git    /   GitHub   /   Linux </h4>
 <p align="left">
   
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
