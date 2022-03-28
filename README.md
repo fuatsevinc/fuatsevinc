@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fuat Sevinc</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate FullStack developer</h3>
 <h6>🔭 I’m currently working on frontend and backend web development </h6>
 
 <h3 align="left">Connect with me:</h3>
