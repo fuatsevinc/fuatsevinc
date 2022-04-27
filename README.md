@@ -9,7 +9,7 @@
 
 <h2 align="center">Languages and Tools</h2>
 <h3><i>Frontend Development :</i></34>
-<h4> HTML5   /   CSS3   /  JS   /   React   /   BootStrap   /   SASS   /    Wordpress   /   SDLC   /   Babel   /   Redux    /    RestAPI   /   Postman</h4>
+<h4> HTML5   /   CSS3   /  JS   /     BootStrap   /   SASS   /    Wordpress   /   SDLC   /   Babel   /    React   /   Redux    /    RestAPI   /   Postman</h4>
 <h3><i>Backend Development and Database :</i></h3>
 <h4>Django   /   MySQL   /   Firebase   /   Heroku   /   PostgreSQL </h4>
 <h4>Others :</h4>
