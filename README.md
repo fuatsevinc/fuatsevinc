@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/fuat-sevin%C3%A7-6a7969217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuat sevinc" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://fuatsevinc.github.io/my_portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instegram-in-alt.svg" alt="fuat sevinc" height="30" width="40" /></a>
+- This is <a href="https://fuatsevinc.github.io/my_portfolio/index.html" target="_blank">My Portfolio Website</a>
 </p>
 
 
