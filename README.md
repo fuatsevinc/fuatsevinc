@@ -66,8 +66,9 @@
 - <a href="https://mehmetcelik-birthday-reminder.netlify.app/" target="_blank" >Birthday-Reminder</a>
 - <a href="https://mhmtclk1705.github.io/Tour-Place-Project/" target="_blank" >Tour-Place-Project</a>
 
+## With Django
 
-## Without React
+## HTML5 CSS3 JavaScript
  
  - <a href="https://mhmtclk1705.github.io/Clarusway-School-Project/" target="_blank" >Clarusway-School-Project</a>
  - <a href="https://mhmtclk1705.github.io/Rest-Countries/" target="_blank" >Rest-Countries</a>
