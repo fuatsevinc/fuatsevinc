@@ -94,7 +94,7 @@
  - <a href="https://mhmtclk1705.github.io/Peerdeck-Page/" target="_blank" >Peerdeck-Page</a> 
  - <a href="https://mhmtclk1705.github.io/Kahoot-Page/" target="_blank" >Kahoot-Page</a>                                                                             
  - <a href="https://mhmtclk1705.github.io/Google-Landing-Page/" target="_blank" >Google-Landing-Page</a> 
- - <a href="fuatsevinc.github.io/survey_form/" target="_blank" >Survey-Form</a>                                                                            
+ - <a href="https://fuatsevinc.github.io/Survey_Form/" target="_blank" >Survey-Form</a>                                                                            
  - <a href="https://mhmtclk1705.github.io/Netflix-Form/" target="_blank" >Netflix-Form</a> 
 
 ## :fire: My Stats :
