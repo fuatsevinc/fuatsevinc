@@ -93,7 +93,7 @@
  - <a href="https://mhmtclk1705.github.io/Parallax-Page/" target="_blank" >Parallax-Page</a> 
  - <a href="https://mhmtclk1705.github.io/Yahoo-Page/" target="_blank" >Yahoo-Page</a>
  - <a href="https://mhmtclk1705.github.io/Peerdeck-Page/" target="_blank" >Peerdeck-Page</a> 
- - <a href="https://fuatsevinc.github.io/kahoot_page/" target="_blank" >Kahoot-Page</a>                                                                             
+ - <a href="https://fuatsevinc.github.io/kahoot_page/" target="_blank" >Kahoot-Page</a>                                                       - <a href="https://fuatsevinc.github.io/google_homepage_projekt/" target="_blank" >Google-Landing-Page</a>                     
  - <a href="https://fuatsevinc.github.io/google_homepage_projekt/" target="_blank" >Google-Landing-Page</a> 
  - <a href="https://fuatsevinc.github.io/Survey_Form/" target="_blank" >Survey-Form</a>                                                                            
  - <a href="https://mhmtclk1705.github.io/Netflix-Form/" target="_blank" >Netflix-Form</a> 
