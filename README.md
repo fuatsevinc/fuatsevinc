@@ -49,22 +49,7 @@
 
 
 - <a href="https://mehmetcelik-fire-blog-app.netlify.app/" target="_blank" >Fire-Blog-App</a>
-- <a href="https://mehmetcelik-redux-thunk-user-project.netlify.app/" target="_blank" >Redux-Thunk-User</a>
-- <a href="https://mehmetcelik-router-cw-website.netlify.app/" target="_blank" >Clarusway-Website-with-Router</a>
-- <a href="https://mehmetcelik-redux-todo-app.netlify.app/" target="_blank" >Redux-Todo-App-Project</a>
-- <a href="https://mehmetcelik-redux-counter-app.netlify.app/" target="_blank" >Basic-Redux-Counter-App</a>
-- <a href="https://mehmetcelik-movie-app-firebase.herokuapp.com/" target="_blank" >Firebase-Movie-App</a>
-- <a href="https://mehmetcelik-random-user-2.netlify.app/" target="_blank" >Random-User-2</a>
-- <a href="https://mehmetcelik-recipe-app.netlify.app/" target="_blank" >Recipe-App-Project</a>
-- <a href="https://mehmetcelik-menu-project.netlify.app/" target="_blank" >Menu-Project</a>
-- <a href="https://mehmetcelik-accordion-project.netlify.app/" target="_blank" >Accordion-Project</a>
-- <a href="https://mhmtclk1705.github.io/Task-Tracker-Project/" target="_blank" >Task-Tracker-Project</a>
-- <a href="https://mehmetcelik-todo-app-project.netlify.app/" target="_blank" >Todo-App</a>
-- <a href="https://mehmetcelik-language-cards-project.netlify.app/" target="_blank" >Language-Cards-Project</a>
-- <a href="https://mehmetcelik-our-reviews-project.netlify.app/" target="_blank" >Our-Reviews-Project</a>
-- <a href="https://mehmetcelik-tours-project.netlify.app/" target="_blank" >Tours-Project</a>
-- <a href="https://mehmetcelik-birthday-reminder.netlify.app/" target="_blank" >Birthday-Reminder</a>
-- <a href="https://mhmtclk1705.github.io/Tour-Place-Project/" target="_blank" >Tour-Place-Project</a>
+
 
 ## With Django
 
@@ -72,36 +57,13 @@
 - <a href="https://fuatsevinc.github.io/BOOTSRAP_COMPANY/" target="_blank" >Bootsrap_Nord_Web_Disgn</a>
 
 ## HTML5 CSS3 JavaScript
- 
- - <a href="https://mhmtclk1705.github.io/Clarusway-School-Project/" target="_blank" >Clarusway-School-Project</a>
- - <a href="https://mhmtclk1705.github.io/Rest-Countries/" target="_blank" >Rest-Countries</a>
- - <a href="https://mhmtclk1705.github.io/Weather-App/" target="_blank" >Weather-App</a>
- - <a href="https://mhmtclk1705.github.io/StopWatch-Project/" target="_blank" >StopWatch-Project</a>
- - <a href="https://mhmtclk1705.github.io/Movie-Seat-App/" target="_blank" >Movie-Seat-App</a>                                                                         
- - <a href="https://mhmtclk1705.github.io/Digital-Clock/" target="_blank" >Digital-Clock</a>
- - <a href="https://mhmtclk1705.github.io/Team-Members-Page/" target="_blank" >Team-Members-Page</a> 
- - <a href="https://mhmtclk1705.github.io/Sass-Website/" target="_blank" >Sass-Website</a>
- - <a href="https://mhmtclk1705.github.io/Web-Design-Project/" target="_blank" >Web-Design-Project</a> 
- - <a href="https://mhmtclk1705.github.io/Checkout-Page-JS/" target="_blank" >Checkout-Page-JS</a> 
- - <a href="https://mhmtclk1705.github.io/Ios-Calculator/" target="_blank" >Ios-Calculator</a>
- - <a href="https://mhmtclk1705.github.io/To-Do-App/" target="_blank" >To-Do-App</a> 
- - <a href="https://mhmtclk1705.github.io/Lottery-Game/" target="_blank" >Lottery-Game</a>                                                                             
- - <a href="https://mhmtclk1705.github.io/Find-The-Number/" target="_blank" >Find-The-Number</a> 
- - <a href="https://mhmtclk1705.github.io/Score-Keeper-Project/" target="_blank" >Score-Keeper-Project</a>  
- - <a href="https://mhmtclk1705.github.io/Exact-Age-Project/" target="_blank" >Exact-Age-Project</a>
- - <a href="https://mhmtclk1705.github.io/Checkout-Form-Page/" target="_blank" >Checkout-Form-Page</a> 
- - <a href="https://mhmtclk1705.github.io/Parallax-Page/" target="_blank" >Parallax-Page</a> 
- - <a href="https://mhmtclk1705.github.io/Yahoo-Page/" target="_blank" >Yahoo-Page</a>
- - <a href="https://mhmtclk1705.github.io/Peerdeck-Page/" target="_blank" >Peerdeck-Page</a> 
- - <a href="https://fuatsevinc.github.io/kahoot_page/" target="_blank" >Kahoot-Page</a>                                                       - <a href="https://fuatsevinc.github.io/google_homepage_projekt/" target="_blank" >Google-Landing-Page</a>                     
- - <a href="https://fuatsevinc.github.io/google_homepage_projekt/" target="_blank" >Google-Landing-Page</a> 
- - <a href="https://fuatsevinc.github.io/Survey_Form/" target="_blank" >Survey-Form</a>                                                                            
- - <a href="https://mhmtclk1705.github.io/Netflix-Form/" target="_blank" >Netflix-Form</a> 
+- <a href="https://fuatsevinc.github.io/kahoot_page/" target="_blank" >Kahoot-Page</a>                                                     
+- <a href="https://fuatsevinc.github.io/google_homepage_projekt/" target="_blank" >Google-Landing-Page</a>                     
+- <a href="https://fuatsevinc.github.io/google_homepage_projekt/" target="_blank" >Google-Landing-Page</a> 
+- <a href="https://fuatsevinc.github.io/Survey_Form/" target="_blank" >Survey-Form</a>                                                       
+- <a href="https://mhmtclk1705.github.io/Netflix-Form/" target="_blank" >Netflix-Form</a> 
 
 ## :fire: My Stats :
-
-
-
 
 <h1 align="center">Summary</h1>
 <p>I am a web developer with a vast array knowledge in many different front end and back end languages, responsive frameworks,databases and best code practices.My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble and continuously making strides to learn all that i can about development. I  believe that my understanding of problem solving and complex algorithms are also skills that have and will continue to contribute to my overall success as a developer.</p>
