@@ -1,4 +1,4 @@
-## Hi there. I'm Fuat...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there. I'm Fuat...<img src="images/developer.gif" width="400" align="right" alt="logo">
 <h3 align="center">A passionate FullStack developer</h3>
 <h6>🔭 I’m currently working on frontend and backend web development </h6>
 
