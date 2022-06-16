@@ -10,39 +10,38 @@
 - This is <a href="https://fuatsevinc.github.io/my_portfolio/index.html" target="_blank">My Portfolio Website</a>
 </p>
 
+### 🔧 Languages and Tools:
 
-<h2 align="center">Languages and Tools</h2>
-<h3><i>Frontend Development :</i></34>
-<h4> HTML5   /   CSS3   /  JS   /     BootStrap   /   SASS   /    Wordpress   /   SDLC   /   Babel   /    React   /   Redux    /    RestAPI   /   Postman</h4>
-<h3><i>Backend Development and Database :</i></h3>
-<h4>Django   /   MySQL   /   Firebase   /   Heroku   /   PostgreSQL </h4>
-<h3><i>Others :</i></h3>
-<h4>  Git    /   GitHub   /   Linux  /  Cpanel  /  FileZilla  </h4>
-<p align="left">
-  
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
+## 💻 Frontend
 
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> </a>
- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
- <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="50" height="50"/> </a> 
-  <a href="https://canvasjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="50" height="50"/> </a>
- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" alt="html" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" alt="css" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="js" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.pngkit.com/png/detail/373-3738691_react-native-svg-transformer-allows-you-import-svg.png" alt="react-native" width="55"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="bootstrap" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://mui.com/static/logo.png" alt="material-ui" height="55"/> </a>
+<a href="#" target="_blank"> <img src="https://react.semantic-ui.com/logo.png" alt="semantic-ui" height="60"/> </a>
 
-   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/> </a>   
-  
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-   
-  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/> </a> 
-   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
-</p>
+## 💻 Backend
+
+<a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
+<a href="#" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png" alt="node-js" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://cdn.buttercms.com/4XpulFfySpWyYTXuaVL2" alt="express" height="50" /> </a>
+
+## ⚙ Tools
+
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="sass" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://as1.ftcdn.net/v2/jpg/03/21/78/18/1000_F_321781826_tgfihu50c7AcvFDW6Un9mbQ8qzJQhOwQ.jpg" alt="ts" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://img.icons8.com/color/452/visual-studio-2019.png" alt="visual-studio" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="gitHub" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 
 ## :star2: My Projects: 
 ## With React
