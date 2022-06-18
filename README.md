@@ -56,6 +56,8 @@
 - <a href="https://fuatsevinc.github.io/BOOTSRAP_COMPANY/" target="_blank" >Bootsrap_Nord_Web_Disgn</a>
 
 ## HTML5 CSS3 JavaScript
+
+- <a href="https://fuatsevinc.github.io/PARALLAX_WEBSITE/" target="_blank" >Parallax</a> 
 - <a href="https://fuatsevinc.github.io/kahoot_page/" target="_blank" >Kahoot-Page</a>                                                     
 - <a href="https://fuatsevinc.github.io/google_homepage_projekt/" target="_blank" >Google-Landing-Page</a>                     
 - <a href="https://fuatsevinc.github.io/google_homepage_projekt/" target="_blank" >Google-Landing-Page</a> 
