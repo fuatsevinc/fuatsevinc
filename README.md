@@ -58,7 +58,7 @@
 ## With Bootsrap
 - <a href="https://fuatsevinc.github.io/BOOTSRAP_COMPANY/" target="_blank" >Bootsrap_Nord_Web_Disgn</a>
 
-## HTML5 CSS3 JavaScript
+## With HTML5 CSS3 JavaScript
 
 - <a href="https://fuatsevinc.github.io/Javascript_Project_Exact_Age_Calculater/" target="_blank" >Exact Age Calculater</a> 
 - <a href="https://fuatsevinc.github.io/PARALLAX_WEBSITE/" target="_blank" >Parallax</a> 
