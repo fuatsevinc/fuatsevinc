@@ -50,7 +50,7 @@
 ## With React
 
 
-- <a href="https://mehmetcelik-fire-blog-app.netlify.app/" target="_blank" >Fire-Blog-App</a>
+- <a href="https://fuatsevinctasktracer.netlify.app/" target="_blank" >Task Tracker</a>
 
 
 ## With Django
