@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/fuatsevinc66/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
 </p>
 <p align="left">
-- This is <a href="http://www.fuatsevinc.com" target="_blank">My Portfolio Website</a>
+- This is <a href="http://www.fuatsevinc.com" target="_blank">My Portfolio Website www.fuatsevinc.com</a>
 </p>
 
 ### 🔧 Languages and Tools:
