@@ -51,7 +51,7 @@
 
 
 - <a href="https://fuatsevinctasktracer.netlify.app/" target="_blank" >Task Tracker</a>
-
+- <a href="https://fuatsevincweatherapp.netlify.app/" target="_blank" >Weather App</a>
 
 ## With Django
 
