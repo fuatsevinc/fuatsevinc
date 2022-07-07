@@ -60,7 +60,7 @@
 
 ## With HTML5 CSS3 JavaScript
 
-- <a href="https://fuatsevinc.github.io/Javascript_Project_Exact_Age_Calculater/" target="_blank" >Exact Age Calculater</a> 
+- <a href="https://fuatsevinc.github.io/JS-Exact_Age_Calculater/" target="_blank" >Exact Age Calculater</a> 
 - <a href="https://fuatsevinc.github.io/HTML-CSS-Parallax/" target="_blank" >Parallax</a> 
 - <a href="https://fuatsevinc.github.io/kahoot_page/" target="_blank" >Kahoot-Page</a>                                                     
 - <a href="https://fuatsevinc.github.io/google_homepage_projekt/" target="_blank" >Google-Landing-Page</a>                     
