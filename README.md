@@ -50,7 +50,7 @@
 ## :star2: My Projects: 
 ## With React
 
-
+- <a href="https://fuatsevincuserapp.netlify.app/" target="_blank" >Random User App</a>
 - <a href="https://fuatsevinctasktracer.netlify.app/" target="_blank" >Task Tracker</a>
 - <a href="https://fuatsevincweatherapp.netlify.app/" target="_blank" >Weather App</a>
 
