@@ -65,7 +65,7 @@
 - <a href="https://fuatsevinc.github.io/HTML-CSS-Parallax/" target="_blank" >Parallax</a> 
 - <a href="https://fuatsevinc.github.io/HTML-KahootPage/" target="_blank" >Kahoot-Page</a>                                                     
 - <a href="https://fuatsevinc.github.io/HTML-CSS-GoogleHomepage/" target="_blank" >Google-Landing-Page</a>                     
-- <a href="https://fuatsevinc.github.io/HTML-CSS-SurveyForm/" target="_blank" >Survey-Form</a>                                                 
+- <a href="https://fuatsevinc.github.io/HTML-CSS-Survey-Form/" target="_blank" >Survey-Form</a>                                                 
 - <a href="https://fuatsevinc.github.io/HTML_CSS-NetflixForm/" target="_blank" >Netflix-Form</a> 
 - <a href="https://fuatsevinc.github.io/fuatsevinc_CV/" target="_blank" >Fuat Sevinc CV</a> 
 
