@@ -61,6 +61,7 @@
 
 ## With HTML5 CSS3 JavaScript
 
+- <a href="https://fuatsevinc.github.io/HTML-JS-FetchApi/" target="_blank" >Fetch Api</a> 
 - <a href="https://fuatsevinc.github.io/HTML-CSS-JS-LottaryGame/" target="_blank" >Lottary Game</a> 
 - <a href="https://fuatsevinc.github.io/JS-Exact_Age_Calculater/" target="_blank" >Exact Age Calculater</a> 
 - <a href="https://fuatsevinc.github.io/HTML-CSS-Parallax/" target="_blank" >Parallax</a> 
