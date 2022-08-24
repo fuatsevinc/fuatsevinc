@@ -24,6 +24,11 @@
 - This is <a href="http://www.fuatsevinc.com" target="_blank">My Portfolio Website www.fuatsevinc.com</a>
 </p>
 
+
+<div align="center">
+<img src="./profile-3d-contrib/profile-gitblock.svg"/>
+</div>
+
 ### 🔧 Languages and Tools:
 
 ## 💻 Frontend
