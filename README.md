@@ -25,10 +25,6 @@
 </p>
 
 
-<div align="center">
-<img src="./profile-3d-contrib/profile-gitblock.svg"/>
-</div>
-
 ### 🔧 Languages and Tools:
 
 ## 💻 Frontend
