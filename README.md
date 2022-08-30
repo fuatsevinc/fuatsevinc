@@ -16,10 +16,8 @@
 <a href="https://vercel.com/fuatsevinc/react-language-cards/3AphSL7k8qN2rm4oAUpnY3xXVuU5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
 <a href="https://giphy.com/channel/fuatsevinc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/giphy.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
 <a href="https://www.sololearn.com/profile/26360624" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/sololearn.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
-<a href="https://www.figma.com/files/recent?fuid=1043526402029891500
-</p>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/figma.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19882912/fuatsevinc
-</p>" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/stackoverflow.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
+<a href="https://www.figma.com/files/recent?fuid=1043526402029891500" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/figma.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19882912/fuatsevinc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/stackoverflow.svg" alt="Fuat Sevinc" height="30" width="40" /></a>
 
 
 <p align="left">
