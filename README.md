@@ -16,15 +16,12 @@
   <a href="https://dashboard.heroku.com/pipelines/f9266513-11f3-4f2f-8cb2-bc0e5524a448" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/heroku.svg" alt="Fuat Sevinc" height="30" width="40" />heroku</a>
 <a href="https://vercel.com/fuatsevinc/react-language-cards/3AphSL7k8qN2rm4oAUpnY3xXVuU5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg" alt="Fuat Sevinc" height="30" width="40" />vercel</a>
 <a href="https://giphy.com/channel/fuatsevinc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/giphy.svg" alt="Fuat Sevinc" height="30" width="40" />giphy</a>
-  <a href="https://www.figma.com/files/recent?fuid=1043526402029891500" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/figma.svg" alt="Fuat Sevinc" height="30" width="40" />figma</a><br><br>
+<br><br>
 <a href="https://www.sololearn.com/profile/26360624" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/sololearn.svg" alt="Fuat Sevinc" height="30" width="40" />sololearn</a>
-  <a href="https://stackoverflow.com/users/19882912/fuatsevinc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/stackoverflow.svg" alt="Fuat Sevinc" height="30" width="40" />stackoverflow</a>
+    <a href="https://www.figma.com/files/recent?fuid=1043526402029891500" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/figma.svg" alt="Fuat Sevinc" height="30" width="40" />figma</a>
+    <a href="https://stackoverflow.com/users/19882912/fuatsevinc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/stackoverflow.svg" alt="Fuat Sevinc" height="30" width="40" />stackoverflow</a>
 <a href="https://codepen.io/fuatsevinc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Fuat Sevinc" height="30" width="40" />codepen</a>
-  <br><br>
-
-
-
-
+  <br>
 
 <p align="left">
 - This is <a href="http://www.fuatsevinc.com" target="_blank">My Portfolio Website www.fuatsevinc.com</a>
@@ -51,7 +48,7 @@
 <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
 <a href="#" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="50"/> </a>
 
-## Api`s
+## 💻 Api`s
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/89463157/184048993-32bb00ed-54e3-438f-b009-1ccfee967b4a.png" alt="html" height="60"/> </a>
 
 ## ⚙ Tools
