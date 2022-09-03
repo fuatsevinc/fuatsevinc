@@ -63,14 +63,6 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/> </a>
 
-## My projects
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[CrewIn Blog App](https://crewin-blog.vercel.app/)| React, React Router Dom, SCSS, react icons |![crewin](https://user-images.githubusercontent.com/97898216/186534031-e91366da-a35b-43f3-a2f1-e555242e8e7a.gif)
-
-
-
-
 
 
 ## :star2: My Projects: 
