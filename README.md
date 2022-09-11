@@ -21,7 +21,8 @@
     <a href="https://www.figma.com/files/recent?fuid=1043526402029891500" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/figma.svg" alt="Fuat Sevinc" height="30" width="40" />figma</a>
     <a href="https://stackoverflow.com/users/19882912/fuatsevinc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/stackoverflow.svg" alt="Fuat Sevinc" height="30" width="40" />stackoverflow</a>
 <a href="https://codepen.io/fuatsevinc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Fuat Sevinc" height="30" width="40" />codepen</a>
-<a href="https://medium.com/@fuatsevin/fullstack-mentor-giri%C5%9F-eeb8f9040b60" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/medium.svg" alt="Fuat Sevinc" height="30" width="40" />medium</a>
+<br><br>
+<a href="https://medium.com/@fuatsevin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/medium.svg" alt="Fuat Sevinc" height="30" width="40" />medium</a>
 
   <br>
 
