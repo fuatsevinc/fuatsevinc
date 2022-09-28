@@ -27,8 +27,8 @@
   <br>
 
 <p align="left">
-- This is With Bootsrap <a href="http://www.fuatsevinc.com" target="_blank">My Portfolio Website www.fuatsevinc.com</a> <br>
-- This is With Django <a href="http://fuatsevinc.pythonanywhere.com/" target="_blank">My Portfolio Website http://fuatsevinc.pythonanywhere.com</a>
+- This is With Bootsrap <a href="http://www.fuatsevinc.com" target="_blank" >My Portfolio Website www.fuatsevinc.com</a> <br>
+- This is With Django <a href="http://fuatsevinc.pythonanywhere.com/" target="_blank" >My Portfolio Website http://fuatsevinc.pythonanywhere.com</a>
 </p>
 
 
