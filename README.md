@@ -80,6 +80,7 @@
 
 ## With Django
 - <a href="https://dashboard.heroku.com/apps" target="_blank" >HEROKU</a>
+- <a href="http://fuatsevinc.pythonanywhere.com/" target="_blank" >PythonAnywhere</a>
 
 ## With Bootsrap
 - <a href="https://fuatsevinc.github.io/BOOTSRAP-FuatSevincCompany/" target="_blank" >Bootsrap_Nord_Web_Disgn</a>
