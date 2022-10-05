@@ -88,12 +88,10 @@
 ## With HTML5 CSS3 JavaScript
 
 - <a href="https://fuatsevinc.github.io/HTML-JS-FetchApi/" target="_blank" >Fetch Api</a> 
-
 - <a href="https://fuatsevinc.github.io/HTML-CSS-JS-LottaryGame/" target="_blank" >Lottary Game</a> 
 - <a href="https://fuatsevinc.github.io/JS-Exact_Age_Calculater/" target="_blank" >Exact Age Calculater</a> 
 - <a href="https://fuatsevinc.github.io/HTML-CSS-Parallax/" target="_blank" >Parallax</a> 
-- <a href="https://fuatsevinc.github.io/HTML-KahootPage/" target="_blank" >Kahoot-Page</a>  
--                                                    
+- <a href="https://fuatsevinc.github.io/HTML-KahootPage/" target="_blank" >Kahoot-Page</a>                                                   
 - <a href="https://fuatsevinc.github.io/HTML-CSS-GoogleHomepage/" target="_blank" >Google-Landing-Page</a>                     
 - <a href="https://fuatsevinc.github.io/HTML-CSS-Survey-Form/" target="_blank" >Survey-Form</a>                                                 
 - <a href="https://fuatsevinc.github.io/HTML_CSS-NetflixForm/" target="_blank" >Netflix-Form</a> 
