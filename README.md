@@ -52,8 +52,12 @@
 
 ## 💻 Backend
 
+
 <a href="#" target="_blank"> <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="150"/> </a>
-<a href="#" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" height="50"/> </a> 
+
+## 💻 Docker
+<a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" height="100"/> </a>
 
 ## 💻 Api`s
 <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/89463157/184048993-32bb00ed-54e3-438f-b009-1ccfee967b4a.png" alt="html" height="60"/> </a>
