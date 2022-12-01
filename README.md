@@ -117,5 +117,4 @@
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 
-### Buy me a coffee ☕ [PayPal](https://paypal.me/fuatsevinc)<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Paypal.png" alt="redux" height="60"/> </a>
-
+### Buy me a coffee ☕ [PayPal](https://paypal.me/fuatsevinc) <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/paypal.svg" alt="Fuat Sevinc" height="30" width="40" />
