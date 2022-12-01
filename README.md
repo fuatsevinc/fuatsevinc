@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Hi+there+I+am+Fuat...)](https://git.io/typing-svg)
 <a href="https://github.com/fuatsevinc"><img src="https://visitor-badge.laobi.icu/badge?page_id=fuatsevinc&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
+
 <img src="images/developer.gif" width="400" align="right" alt="logo">
 <h3 align="center">A passionate FullStack developer</h3>
 <h6>🔭 I’m currently working on frontend and backend web development </h6>
@@ -115,3 +116,6 @@
 
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+
+### Buy me a coffee ☕ [PayPal](https://paypal.me/fuatsevinc)<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Paypal.png" alt="redux" height="60"/> </a>
+
