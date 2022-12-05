@@ -113,7 +113,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fuatsevinc&show_icons=true)  
 
-![Resume](./cv.jpg)
+![Resume](./cv1.png)
 
 
 
