@@ -70,6 +70,7 @@
 ## ⚙ Tools
 <a href="#" target="_blank"> <img src="https://img.icons8.com/color/452/visual-studio-2019.png" alt="visual-studio" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vs-code" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.svg" alt="git" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="gitHub" height="50"/> </a>
