@@ -11,25 +11,25 @@
 
   <a href="https://www.linkedin.com/in/fuatsevinc/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuat sevinc" height="30" width="40" />linkedin</a>
   <a href="https://www.xing.com/profile/Fuat_Sevinc5/cv" target="_blank" ><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/xing-icon.svg" alt="fuat sevinc" height="30" width="40" />xing</a>
-  <br><br>  
+  <br><br> <br>   
   <a href="https://www.facebook.com/profile.php?id=100077565006458" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Fuat Sevinc" height="30" width="40" />facebook</a>
   <a href="https://twitter.com/FuatSevinc_" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Fuat Sevinc" height="30" width="40" />twitter</a>
   <a href="https://www.instagram.com/fuatsevinc66/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Fuat Sevinc" height="30" width="40" />instagram</a>
-    <br><br>
+    <br><br><br>  
   <a href="https://dashboard.heroku.com/pipelines/f9266513-11f3-4f2f-8cb2-bc0e5524a448" target="_blank" ><img align="center" src="https://cdn.freebiesupply.com/logos/thumbs/2x/heroku-logo.png" alt="Fuat Sevinc" height="30" width="40" />heroku</a>
   <a href="https://vercel.com/fuatsevinc/react-language-cards/3AphSL7k8qN2rm4oAUpnY3xXVuU5" target="_blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vercel.svg" alt="Fuat Sevinc" height="30" width="40" />vercel</a>
   <a href="https://app.netlify.com/teams/fuatsevinc/overview" target="_blank" ><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt="Fuat Sevinc" height="30" width="40" />netlify</a>
-<br><br>
+<br><br><br>  
    <a href="https://giphy.com/channel/fuatsevinc" target="_blank" ><img align="center" src="https://www.freelogovectors.net/svg08/giphy_logo_icon.svg" alt="Fuat Sevinc" height="30" width="40" />giphy</a>
   <a href="https://www.sololearn.com/profile/26360624" target="_blank" ><img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/figma-1-logo-png-transparent.png" alt="Fuat Sevinc" height="30" width="40" />figma</a>
   <a href="https://www.canva.com/design/DAFSfA7QgFo/7slZHybr87-66bI3wmAKhw/edit" target="_blank" ><img align="center" src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" alt="Fuat Sevinc" height="30" width="40" />Canva</a>
-  <br><br>
+  <br><br><br>  
     <a href="https://stackoverflow.com/users/19882912/fuatsevinc" target="_blank" ><img align="center" src="https://icon-library.com/images/stackoverflow-icon/stackoverflow-icon-11.jpg" alt="Fuat Sevinc" height="30" width="40" />stackoverflow</a><a href="https://www.sololearn.com/profile/26360624" target="_blank" ><img align="center" src="https://schulesoft.com/wp-content/uploads/2022/03/sololearn-1.png" alt="Fuat Sevinc" height="30" width="40" />sololearn</a>
   <a href="https://codepen.io/fuatsevinc" target="_blank" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Fuat Sevinc" height="30" width="40" />codepen</a>
-   <br><br>
+   <br><br><br>  
   <a href="https://medium.com/@fuatsevin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.5.0/icons/medium.svg" alt="Fuat Sevinc" height="30" width="40" />medium</a>
   
-  <br>
+  <br><br>  
 
 <p align="left">
 - This is With Bootsrap <a href="http://www.fuatsevinc.com" target="_blank" >My Portfolio Website www.fuatsevinc.com</a> 
