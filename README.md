@@ -11,7 +11,7 @@
 
   <a href="https://www.linkedin.com/in/fuatsevinc/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fuat sevinc" height="30" width="40" />linkedin</a>
   <a href="https://www.xing.com/profile/Fuat_Sevinc5/cv" target="_blank" ><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/xing-icon.svg" alt="fuat sevinc" height="30" width="40" />xing</a>
-  <br><br>
+  <br><br> 
   <a href="https://www.facebook.com/profile.php?id=100077565006458" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Fuat Sevinc" height="30" width="40" />facebook</a>
   <a href="https://twitter.com/FuatSevinc_" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Fuat Sevinc" height="30" width="40" />twitter</a>
   <a href="https://www.instagram.com/fuatsevinc66/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Fuat Sevinc" height="30" width="40" />instagram</a>
